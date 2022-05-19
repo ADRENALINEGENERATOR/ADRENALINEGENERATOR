@@ -1,5 +1,15 @@
 # KIM HYUNG TAE 😉
-<div><h1>📚 ## STACKS ##</h1></div>
+
+<h3> Here's some fun facts about me: </h3>
+
+- 🔭 저는 현재 플러터 프로젝트를 진행중입니다.
+- 🌱 플러터로 2개의 크로스 플랫폼 앱(지도 기반 거리에 따른 맛집 탐색, 블루투스 통신을 이용하여 웹 서버와 데이터를 송수신)을 만들었습니다.
+- 👯 자격증은 sqldeveloper 이 있으며 현재 리눅스 마스터 1급을 준비중입니다.
+- 🤔 또한 자바를 매우 사랑하며 자바로 하는 모든 프로젝트를 좋아합니다.
+- 💬 현재 개인적으로 자바 TCP 서버를 개발중입니다.
+- 📫 번외지만 한국사 1급 자격증을 가지고 있습니다.
+
+<div><h1>📚  SKILL </h1></div>
 <div> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -9,6 +19,7 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <br/>
+<img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
