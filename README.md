@@ -30,8 +30,10 @@
 
 
 <div><h1>🍎  Most Used Languages </h1></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAN">
 
+<div><h1>🍏  GitHub Stats </h1></div>
 <img src="https://github-readme-stats.vercel.app/api?username=ARAN&theme=vue&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAN)](https://github.com/anuraghazra/github-readme-stats">
+
 
