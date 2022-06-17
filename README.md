@@ -31,7 +31,7 @@
 
 <div><h1>🍎  Most Used Languages </h1></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAN)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ARAN&theme=vue&show_icons=true">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARAN&theme=vue&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAN)](https://github.com/anuraghazra/github-readme-stats">
 
